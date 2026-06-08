@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🛍️ Personal Shopping Concierge
+<img src="assets/banner.png" alt="Personal Shopping Concierge" width="100%" />
+
+<br/>
 
 ### A luxury-streetwear store with a real-time stylist in the browser — chat live, book a video tour, and run it all from a role-based back office.
 
